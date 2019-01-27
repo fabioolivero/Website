@@ -1,0 +1,33 @@
+#usrinfo {
+	height: 200px;
+	width: 800px;
+	margin: auto;
+	padding: 30px;
+}
+
+td {
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#orders {
+	margin-left: 50px;
+}
+
+ul{
+	padding: 10px;
+}
+
+li{
+	padding: 7px;
+}
+
+.prodimg {
+	margin-bottom: 10px;
+}
+
+.remImg:hover{
+	cursor: pointer;
+}
+

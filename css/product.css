@@ -1,0 +1,135 @@
+.revimg {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float: left;
+}
+
+.revtext {
+	margin-left: 80px;
+}
+
+.rev {
+	width: 630px;
+	height: 70px;
+	border-bottom: 1px solid #0071d3;
+	margin: 30px;
+}
+
+#revs {
+	width: 700px;
+	margin: auto;
+}
+
+#prodimg {
+	float: left;
+	width: 200px;
+	height: 200px;
+	margin-right: 30px;
+	margin-bottom: 10px;
+	transition: transform;
+	transition-duration: 0.5s;
+	border: 3px solid #0071d3;
+	border-radius: 10px;
+}
+
+#prodimg:hover {
+	transform: scale(1.5);
+}
+
+#proddesc {
+	font-size: 12pt;
+}
+
+#addcart {
+	border: 3px solid #0071d3;
+	height: 40px;
+	width: 150px;
+	margin: 30px;
+	margin-left: 20px;
+	margin-right: 0px;
+}
+
+#addcart:hover {
+	cursor: pointer;
+	background-color: white;
+}
+
+#addcart:hover {
+	background-color: white;
+}
+
+#addwish {
+	border: 3px solid #0071d3;
+	height: 40px;
+	width: 150px;
+	margin-left: 50px;
+}
+
+#addwish:hover {
+	cursor: pointer;
+	background-color: white;
+}
+
+#addwish:hover {
+	background-color: white;
+}
+
+#prodprice {
+	margin-left: 150px;
+	margin-right: 150px;
+	width: 400px;
+	padding-top: 30px;
+	color: #0071d3;
+	font-size: 30pt;
+	text-align: center;
+}
+
+#prodname {
+	text-align: left;
+}
+
+#prodinfo {
+	height: 200px;
+	width: 800px;
+	margin: auto;
+	padding: 30px;
+}
+
+#review {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+textarea {
+	border-radius: 10px;
+	margin-bottom: 30px;
+	font-family: sans-serif;
+	padding: 10px;
+	width: 530px;
+	height: 100px;
+	font-size: 12pt;
+}
+
+.btn {
+	margin-left: 50px;
+	cursor: pointer;
+}
+
+select {
+	height: 30px;
+	width: 50px;
+	border-radius: 10px;
+}
+
+form {
+	text-align: center;
+}
+
+#qt {
+	width: 50px;
+	border: 3px solid #0071d3;
+	margin-left: 200px;
+	text-align: center;
+}
